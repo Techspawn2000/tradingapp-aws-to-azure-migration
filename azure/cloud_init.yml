@@ -1,0 +1,15 @@
+# cloud_init.yml
+# Basic cloud-init to install app dependencies (Apache Tomcat example) and pull app artifacts from storage
+# This runs on Ubuntu 22.04 LTS by default in the Terraform above.
+
+#cloud-config
+package_update: true
+packages:
+  - openjdk-11-jre-headless
+  - nginx
+runcmd:
+  - systemctl stop nginx || true
+  - mkdir -p /opt/trading_app
+  - echo "Placeholder for app deploy. Replace with actual deployment steps (git clone, artifact download, etc.)" > /opt/trading_app/README.txt
+  - systemctl start nginx || true
+final_message: "Cloud-init finished. App placeholder deployed to /opt/trading_app"

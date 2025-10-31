@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tradingapp
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: tradingapp
+  template:
+    metadata:
+      labels:
+        app: tradingapp
+    spec:
+      containers:
+      - name: tradingapp
+        image: tradingappregistry123.azurecr.io/tradingapp:v1
+        ports:
+        - containerPort: 80
