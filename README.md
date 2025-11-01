@@ -213,6 +213,8 @@ Azure Infrastructure Setup :
 
 https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-28%20121420.png?raw=true
 
+https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-28%20121447.png?raw=true
+
 
 
 Application Deployment :
