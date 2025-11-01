@@ -298,6 +298,8 @@ Resource Verification in Azure Portal :
 
 https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-31%20121300.png?raw=true
 
+https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-31%20125819.png?raw=true
+
 
 
 
