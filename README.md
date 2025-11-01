@@ -174,6 +174,7 @@ Below are screenshots captured during the Lab Implementation of the **TradingApp
 
 Cloud Architectural Diagram :
 
+https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-11-01%20155112.png?raw=true
 
 
 AWS Infrastructure Provisioning :
@@ -265,9 +266,6 @@ https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/scr
 
 
 
-
-
-
 Application Deployment :
 
 https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-28%20054140.png?raw=true
@@ -294,10 +292,6 @@ https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/scr
 
 https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-31%20130232.png?raw=true
 
-
-
-
-Successful Terraform Apply :
 
 
 Resource Verification in Azure Portal :
