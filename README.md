@@ -172,11 +172,7 @@ TradingApp successfully migrated and running on Azure Kubernetes Service (AKS), 
 
 Below are screenshots captured during the Lab Implementation of the **TradingApp AWS to Azure Migration Project**.
 
-| Step | Description | Screenshot |
-|------|--------------|-------------|
-| 1 | AWS Infrastructure Provisioning | ![AWS Infra](screenshots/aws_infra.png) |
-| 2 | Azure Infrastructure Setup | ![Azure Infra](screenshots/azure_infra.png) |
-| 3 | Application Deployment | ![App Deployment](screenshots/app_deployment.png) |
-| 4 | Successful Terraform Apply | ![Terraform Apply](screenshots/terraform_apply.png) |
-| 5 | Resource Verification in Azure Portal | ![Azure Portal](screenshots/azure_portal.png) |
+AWS Infrastructure Provisioning :
+
+
 
