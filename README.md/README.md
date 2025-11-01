@@ -167,7 +167,7 @@ Special thanks to the Techspawn Global Solutions Lab Environment for powering th
 
 TradingApp successfully migrated and running on Azure Kubernetes Service (AKS), accessible via browser through Azure Load Balancer.
 
-SCREENSHOTS
+
 
 
 
