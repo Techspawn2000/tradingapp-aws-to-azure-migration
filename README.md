@@ -280,6 +280,8 @@ https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/scr
 
 https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-31%20120804.png?raw=true
 
+https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-31%20121300.png?raw=true
+
 
 Successful Terraform Apply :
 
