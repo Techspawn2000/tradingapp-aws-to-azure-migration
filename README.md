@@ -180,6 +180,8 @@ AWS Infrastructure Provisioning :
 
 https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-25%20225229.png?raw=true
 
+https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-25%20225251.png?raw=true
+
 
 Azure Infrastructure Setup :
 
