@@ -221,6 +221,8 @@ https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/scr
 
 https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-28%20171146.png?raw=true
 
+https://github.com/Techspawn2000/tradingapp-aws-to-azure-migration/blob/main/screenshots/Screenshot%202025-10-28%20171230.png?raw=true
+
 
 
 Application Deployment :
